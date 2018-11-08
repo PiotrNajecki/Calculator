@@ -1,0 +1,47 @@
+table {
+  margin: 0 auto;
+  padding: 6px;
+  background: rgba(241, 34, 34, 0.904);
+  color: black; 
+  text-align: center;
+  box-shadow: 1px 1px;
+  border: 2px solid rgba(241, 20, 20, 0.904)
+ 
+}
+
+td {
+  background: rgb(248, 244, 5);
+  padding: 3px 18px 3px 18px;
+  border: 1px solid black;
+  font-weight: bold
+  }
+
+tr {
+  margin: 5px;
+}
+
+#buttonCE {
+  background: darkred;
+  color: white;
+}
+
+#screen {
+  background: black;
+  color: white;
+  text-align: right;
+}
+
+#buttonResult {
+  background: rgb(170, 3, 145);
+  color: white
+}
+
+td:hover,
+#equalField:hover,
+#CField:hover {
+  background: violet;
+  cursor: pointer;
+}
+
+
+
